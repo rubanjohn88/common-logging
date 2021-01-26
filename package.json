@@ -1,5 +1,5 @@
 {
-  "name": "test-logging",
+  "name": "common-logging",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@us-south.git.cloud.ibm.com:cammis/common-logging.git"
+    "url": "git@github.com:rubanjohn88/common-logging.git"
   },
   "keywords": [],
   "author": "",
