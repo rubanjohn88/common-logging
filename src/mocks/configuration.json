@@ -1,0 +1,13 @@
+{
+	"logging": {
+        "level": "debug",
+        "consoleEnabled": true,
+        "piiFilter": [
+            "hostname",
+            "password",
+            "service"
+        ],
+        "redactPrefix": ["request[*]."],
+        "redactRemove": false
+    }
+}
